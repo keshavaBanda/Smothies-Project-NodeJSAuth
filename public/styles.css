@@ -137,3 +137,7 @@ footer{
   margin-top: 120px;
   color: #aaa;
 }
+
+::placeholder{
+  color: #919191ba;
+}
