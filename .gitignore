@@ -29,3 +29,4 @@
 !.vscode/extensions.json
 .history/*
 
+.vercel
